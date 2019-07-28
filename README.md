@@ -1,2 +1,2 @@
 # ahmadRepository
-I  use this repository to study
+open source projects here
