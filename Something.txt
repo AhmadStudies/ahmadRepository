@@ -1,1 +1,3 @@
 welcome to new file
+I added some name to the file
+those names are ahmad and mahmod
